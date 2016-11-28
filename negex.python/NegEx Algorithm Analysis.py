@@ -103,7 +103,7 @@ experiencerTxt("Family member")    #Patient, Family member, Other
 
 
 # In[4]:
-
+ 
 # Get all lists that have certain Negation Status value in list
 def negationTxt(word):
     df = []
